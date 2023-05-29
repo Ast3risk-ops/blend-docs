@@ -1,6 +1,6 @@
 ---
 slug: installation-guide
-title: Installation Guide
+title: Installation Guide For PCs
 authors: [rs2009, asterisk, svgaming]
 tags: [install, blend-inst, new-user]
 sidebar_position: 1
