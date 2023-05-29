@@ -3,6 +3,7 @@ slug: installation-guide
 title: Installation Guide
 authors: [rs2009, asterisk, svgaming]
 tags: [install, blend-inst, new-user]
+sidebar_position: 1
 ---
 
 <div class="gap"></div>
@@ -25,6 +26,19 @@ Learn how to install blendOS on your computer through this guide!
 You can skip to a particular step from the outline on the right, if you're on a computer.
 
 ### Step 1: Download the latest blendOS ISO file
+
+:::danger
+
+**Warning for Mac users:**
+
+If you're using Apple Silicon-based Macs, sadly blendOS doesn't support your Mac yet. Stay tuned for updates though!
+
+
+If you're using Intel Mac from 2018 or newer, or 2017 iMac Pro, you **MUST** follow guide for Macs with T2 chips, check [**here**](/guides/installation-guide-for-macs-with-t2-chip) for more information.
+
+
+If you're using Intel Mac not from that era, you can just follow this guide.
+:::
 
 :::tip
 

@@ -3,6 +3,7 @@ slug: container-guide
 title: Container Management Guide/Troubleshooting
 authors: [asterisk, svgaming, overwrited]
 tags: [containers, settings, blend-settings, new-user]
+sidebar_position: 3
 ---
 
 ## Intro to the blendOS container manager
