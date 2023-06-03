@@ -4,4 +4,4 @@ rules:
     upstream: ast3risk-ops:master    # change `wei` to the owner of upstream repo
     mergeMethod: merge
     conflictReviewers:
-      - ast3risk-ops
+      - ast3risk-ops                 # Replace `ast3risk-ops` with your GitHub username, assigns you to the PR if there's a merge conflict
