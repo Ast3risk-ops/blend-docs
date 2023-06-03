@@ -70,6 +70,7 @@ FossTorrents is the only certified provider of blendOS torrents, do not torrent 
     * [Download from](http://paid-01.pluoxhost.xyz:4006/blendOS-2023.04.22-x86_64-plasma.iso) [**PluoxHost**](https://pluoxhost.xyz) [mirror (Germany)](http://paid-01.pluoxhost.xyz:4006/blendOS-2023.04.22-x86_64-plasma.iso)
     * [Download from SvGaming mirror (Croatia)](https://svgaming.serveo.net/downloadzone/blendos_mirror/blendOS-2023.04.22-x86_64-plasma.iso)
     * [Download from YuruMirror (South Korea)](https://mirror.funami.tech/blendos/iso/blendOS-2023.04.22-x86_64-plasma.iso)
+    * [Download from MindsOnline (Australia)](https://www.mindsonline.org/blendOS-2023.04.22-x86_64-plasma.iso)
 2. GNOME Edition:
     * ~~[Download from Google Drive (Broken ISO) (**DO NOT USE**)](https://drive.google.com/file/d/1nT_lMZlVy2y6VVJUas1qph4I7-gxsMfB/view)~~
     * [Download from SourceForge (Global)](https://sourceforge.net/projects/blendos/files/23.04-1/GNOME/blendOS-2023.04.22-x86_64-gnome.iso/download)
@@ -78,6 +79,7 @@ FossTorrents is the only certified provider of blendOS torrents, do not torrent 
     * [Download from](http://paid-01.pluoxhost.xyz:4006/blendOS-2023.04.22-x86_64-gnome.iso) [**PluoxHost**](https://pluoxhost.xyz) [mirror (Germany)](http://paid-01.pluoxhost.xyz:4006/blendOS-2023.04.22-x86_64-gnome.iso)
     * [Download from SvGaming mirror (Croatia)](https://svgaming.serveo.net/downloadzone/blendos_mirror/blendOS-2023.04.22-x86_64-plasma.iso)
     * [Download from YuruMirror (South Korea)](https://mirror.funami.tech/blendos/iso/blendOS-2023.04.22-x86_64-gnome.iso)
+    * [Download from MindsOnline (Australia)](https://www.mindsonline.org/blendOS-2023.04.22-x86_64-gnome.iso)
   
 3. BitTorrent:
    * [blendOS FossTorrents homepage](https://fosstorrents.com/distributions/blendos/) (for .torrent files)
@@ -86,6 +88,13 @@ FossTorrents is the only certified provider of blendOS torrents, do not torrent 
 
 
 ### Step 2: Download balenaEtcher
+
+:::info
+**DO NOT USE RUFUS!!**
+
+Rufus appears to not work well with blend, we will offer no support outside of "use etcher" if you do use Rufus.
+
+:::
 
 In this guide, we will be using balenaEtcher to burn the ISO file to the USB drive.
 
