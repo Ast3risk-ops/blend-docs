@@ -31,13 +31,13 @@ You can skip to a particular step from the outline on the right, if you're on a 
 
 **Warning for Mac users:**
 
-If you're using Apple Silicon-based Macs, sadly blendOS doesn't support your Mac yet. Stay tuned for updates though!
+If you're using an Apple Silicon-based Mac, sadly blendOS doesn't support your Mac yet. Stay tuned for updates though!
 
 
-If you're using Intel Mac from 2018 or newer, or 2017 iMac Pro, you **MUST** follow guide for Macs with T2 chips, check [**here**](/guides/installation-guide-for-macs-with-t2-chip) for more information.
+If you're using an Intel Mac from 2018 or later, or a 2017 iMac Pro, you **MUST** follow [**the guide for Macs with T2 chips**](/guides/installation-guide-for-macs-with-t2-chip).
 
 
-If you're using Intel Mac not from that era, you can just follow this guide.
+If you're using an Intel Mac not from that era, you can just follow this guide (but be aware some drivers may be missing and your experience may not be that great).
 :::
 
 :::tip
